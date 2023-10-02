@@ -12,7 +12,7 @@ Source Hypothesis".
 
 ## Data Preparation
 
-Please download datasets: [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/), [Office-Home](http://ai.bu.edu/visda-2017/), and [VisDA-C](http://ai.bu.edu/visda-2017/) to your home directory.
+Please download datasets: [Office-31](https://faculty.cc.gatech.edu/~judy/domainadapt/), [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html), and [VisDA-C](http://ai.bu.edu/visda-2017/) to your home directory.
 
 ## Training
 (1) Pre-train the source model on dataset office-31:
