@@ -24,3 +24,16 @@ Please download datasets: [Office-31](https://faculty.cc.gatech.edu/~judy/domain
 
 `python main.py --s 0 --t 1 --gpu_id 0 --dset office --lr 3e-3 --T 3.0
 `
+# Citation
+Please cite our paper if you are interested:
+
+@ARTICLE{source24he,
+  author={He Jiujun, Wu Liang, Tao Chaofan, and Lv Fengmao},
+  journal={Pattern Recognition}, 
+  title={Source-Free Domain Adaptation with Unrestricted Source Hypothesis}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={}}
+
